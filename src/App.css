@@ -1,4 +1,6 @@
-
+input {
+  font: inherit;
+}
 
 #center {
   display: flex;
